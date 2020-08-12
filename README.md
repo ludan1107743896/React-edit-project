@@ -6,7 +6,7 @@
 
 ```sh
 // 下载项目单独运行
-git clone 项目地址
+git clone https://github.com/ludan1107743896/react-edit-project.git
 npm install 
 npm run start
 
