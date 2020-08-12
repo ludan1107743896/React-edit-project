@@ -614,7 +614,6 @@ class Editor extends Component {
                     </div>
                   </Panel>
                 </Collapse>
-                <PropsComp {...this} />
               </div>
             </div>
             :
